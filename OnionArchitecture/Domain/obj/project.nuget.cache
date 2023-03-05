@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyD+b7R9VKmOn+l5uEMVcD/IcJ7A7sgiuZVKrn28COEhm5kzSoOmebcWUh/LZBwh5ejmEsmjQK4/ShD/ot2bkw==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\OnionArchitecture\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheta\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\cheta\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\cheta\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\cheta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

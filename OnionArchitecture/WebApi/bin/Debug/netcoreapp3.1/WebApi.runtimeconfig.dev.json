@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cheta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cheta\\.nuget\\packages"
+    ]
+  }
+}

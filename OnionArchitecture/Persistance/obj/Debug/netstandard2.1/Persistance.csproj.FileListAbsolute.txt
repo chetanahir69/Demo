@@ -1,0 +1,15 @@
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Persistance.deps.json
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Persistance.dll
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Persistance.pdb
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Application.dll
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Domain.dll
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Application.pdb
+D:\Demo\OnionArchitecture\Persistance\bin\Debug\netstandard2.1\Domain.pdb
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.csproj.AssemblyReference.cache
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.AssemblyInfoInputs.cache
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.AssemblyInfo.cs
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.csproj.CoreCompileInputs.cache
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.csproj.CopyComplete
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.dll
+D:\Demo\OnionArchitecture\Persistance\obj\Debug\netstandard2.1\Persistance.pdb
